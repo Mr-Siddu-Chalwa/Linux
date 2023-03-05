@@ -1,0 +1,2 @@
+This is some input text.
+It has multiple lines.

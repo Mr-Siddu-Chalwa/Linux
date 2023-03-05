@@ -1,0 +1,1 @@
+awk -v threshold=30 -f script.awk input.txt

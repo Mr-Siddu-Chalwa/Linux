@@ -1,0 +1,22 @@
+	# gawk profile, created Sun Mar  5 19:48:34 2023
+
+	# BEGIN rule(s)
+
+	BEGIN {
+     1  	print "Reading input file..."
+	}
+
+	# Rule(s)
+
+     5  {
+     5  	total += $1
+     5  	count++
+	}
+
+	# END rule(s)
+
+	END {
+     1  	print "Processed", count, "lines."
+     1  	print "Total:", total
+	}
+

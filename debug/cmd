@@ -1,0 +1,1 @@
+awk -D -f script.awk input.txt

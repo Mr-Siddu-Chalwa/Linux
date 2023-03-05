@@ -1,0 +1,4 @@
+Name    Age    Occupation
+Alice   28     Engineer
+Bob     35     Teacher
+Charlie 42     Doctor

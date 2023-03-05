@@ -1,0 +1,7 @@
+invalid: Checks for invalid or unknown options, variables, and functions.
+deprecated: Checks for deprecated options, variables, and functions.
+undefined: Checks for undefined variables and functions.
+
+--lint=none
+--lint=invalid,undefined
+--lint=deprecated

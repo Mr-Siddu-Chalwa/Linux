@@ -1,0 +1,15 @@
+list
+b 2 ----- set break point at line 2
+r ----- run in debug mode
+l 1 ----- go back to first line
+s ----- step
+p ----- print
+p var[1] ----- print array of 1 ----- don't use i in loop
+eval "print r[i]" ----- print value at i index
+disp i ----- display i value
+disp is same as print
+we can also use printf with %d & so on
+enter to continue
+w var ----- watch variable
+clear 2 ----- delete breakpoint
+q ----- exit

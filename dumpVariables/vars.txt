@@ -1,0 +1,32 @@
+ARGC: 2
+ARGIND: 1
+ARGV: array, 2 elements
+BINMODE: 0
+CONVFMT: "%.6g"
+ENVIRON: array, 23 elements
+ERRNO: ""
+FIELDWIDTHS: ""
+FILENAME: "input.txt"
+FNR: 2
+FPAT: "[^[:space:]]+"
+FS: " "
+FUNCTAB: array, 41 elements
+IGNORECASE: 0
+LINT: 0
+NF: 4
+NR: 2
+OFMT: "%.6g"
+OFS: " "
+ORS: "\n"
+PREC: 53
+PROCINFO: array, 32 elements
+RLENGTH: 0
+ROUNDMODE: "N"
+RS: "\n"
+RSTART: 0
+RT: "\n"
+SUBSEP: "\034"
+SYMTAB: array, 30 elements
+TEXTDOMAIN: "messages"
+var1: "Hello"
+var2: "world"

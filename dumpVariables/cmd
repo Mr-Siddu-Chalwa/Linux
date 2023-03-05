@@ -1,0 +1,1 @@
+awk --dump-variables=vars.txt -f script.awk input.txt

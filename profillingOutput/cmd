@@ -1,0 +1,1 @@
+awk --profile -f script.awk input.txt

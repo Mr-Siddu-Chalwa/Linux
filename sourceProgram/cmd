@@ -1,0 +1,1 @@
+echo '{ print "hello, world" }' | awk --source='{print}'

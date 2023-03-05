@@ -1,0 +1,1 @@
+awk -F ',' -b '{print $1}' data.txt
