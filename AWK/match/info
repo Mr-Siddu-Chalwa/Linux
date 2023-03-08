@@ -1,0 +1,6 @@
+searches a given string for a specified regular expression pattern, and returns the position and length of the matched substring as RSTART and RLENGTH variables, respectively
+
+match(s, r [, a])
+s is the input string 
+r is an regular expression pattern to search for.
+a is an optional array that is used to store the captured subgroups.

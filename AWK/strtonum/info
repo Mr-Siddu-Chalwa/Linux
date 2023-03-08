@@ -1,0 +1,6 @@
+convert a string str into a numeric value
+
+awk strtonum(str)
+If the string starts with a valid numeric value, strtonum() returns that value as a number. 
+If the string does not start with a valid numeric value, strtonum() returns zero.
+

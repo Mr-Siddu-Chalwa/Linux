@@ -1,0 +1,7 @@
+perform a substitution operation on a string
+
+gensub(r, s, h [, t])
+r: the regular expression to search for
+s: the string to replace the regular expression with
+h: a flag that specifies which occurrence of the regular expression to replace. It can take the values "g" (replace all occurrences), "1" (replace the first occurrence), "2" (replace the second occurrence), and so on.
+t: the input string to perform the substitution on (optional). If this argument is not provided, the function operates on $0, which contains the entire input record.

@@ -1,0 +1,4 @@
+returns the length of a given string.
+
+length(string)
+

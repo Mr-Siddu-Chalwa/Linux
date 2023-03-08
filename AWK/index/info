@@ -1,0 +1,4 @@
+returns the index of a substring within a given string
+
+index(string, substring)
+If substring is not found in string, index returns 0.

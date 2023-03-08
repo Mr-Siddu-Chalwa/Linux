@@ -1,0 +1,6 @@
+global substitution of the regular expression
+
+gsub(r, s [, t])
+r: A regular expression pattern to be replaced globally
+s: The string to replace the matches with
+t: The target string or field where the substitution is to be made. If not specified, the substitution is made in the entire record.

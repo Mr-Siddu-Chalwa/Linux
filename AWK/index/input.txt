@@ -1,0 +1,5 @@
+This is the first line of the file.
+It contains several words and spaces.
+The third line has the word "hello" in it.
+The fourth line also has the word "hello".
+The fifth line does not contain the word we are searching for.

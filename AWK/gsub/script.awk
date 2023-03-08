@@ -1,0 +1,4 @@
+{
+    gsub("text", "string")
+    print 
+}

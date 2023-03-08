@@ -1,0 +1,7 @@
+substitute the first occurrence of a regular expression r in the input string with a replacement string s.
+
+awk sub(r, s [, t])
+r: argument is a regular expression that specifies the pattern to be searched for in the input string
+s: argument is the replacement string that will replace the first occurrence of the regular expression r in the input string
+t: argument is optional and can be used to specify the target string on which the substitution should be performed. 
+If the t argument is not provided, the current input record is used.

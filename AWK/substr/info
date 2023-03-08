@@ -1,0 +1,7 @@
+extract a substring from the input string
+
+substr(s, i [, n])
+s: input string
+i: starting position of the substring
+n: length of sub string
+n - if not provided then all chars will be included from i postion.

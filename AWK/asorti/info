@@ -1,0 +1,7 @@
+used to sort an associative array by its indices
+
+asorti(s [, d [, how]])
+s: the name of the array to be sorted
+d: the name of the array that will store the sorted indices (optional)
+how: the sorting order, either "ascending" (the default) or "descending" (optional)
+

@@ -1,0 +1,9 @@
+format a string based on a format specifier and a list of expressions
+
+awk sprintf(fmt, expr-list)
+fmt: argument is a string that specifies the format for the output string
+expr-list: placeholders for the values of the expressions
+
+placeholders start with a percent sign (%) and are followed by a character that indicates the type of value that should be formatted.
+
+comma-separated list of expressions whose values will be substituted into the placeholders in the fmt string
