@@ -1,0 +1,4 @@
+logical OR operator
+
+or(v1, v2 [, ...])
+

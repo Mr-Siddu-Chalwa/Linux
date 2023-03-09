@@ -1,0 +1,3 @@
+profiler accepts 2 signals.
+SIGUSR1 - dump a profile & function call stack to awkprof.out & continues to run.
+SIGHUP - dump the profile & function call stack to awkprof.out & exit.

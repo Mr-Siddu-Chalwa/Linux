@@ -1,0 +1,4 @@
+isarray(x) 
+
+Return true if x is an array, false otherwise.  
+mainly for use with the elements of multidimensional arrays and with function parameters.

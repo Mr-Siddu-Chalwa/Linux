@@ -1,0 +1,12 @@
+format date & time values as stirngs
+
+strftime([format [, timestamp[, utc-flag]]])
+format: string which specifies the foramt of o/p string.
+it contains conversion specifiers that are replaced by correspoding date & time values.
+%Y replace year, %m replace month, %d replace date.
+If format is omitted then %c is used as default.
+
+timestamp: optional integer value that represents the time to be formatted. on omitting current time is ued.
+
+utc-flag: optional boolean vlaue that indicates whether to use UTC insted of the local time. it set then it is used.
+

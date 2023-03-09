@@ -1,0 +1,5 @@
+XOR operation
+
+xor(v1, v2 [, ...])
+min 2 arguments
+

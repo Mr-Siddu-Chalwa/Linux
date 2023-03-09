@@ -1,0 +1,4 @@
+John,25,Male
+Jane,32,Female
+Bob,40,Male
+Alice,22,Female

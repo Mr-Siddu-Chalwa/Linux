@@ -1,0 +1,12 @@
+convert datespec into a time stamp of systime()
+ie to seconds
+mktime(datespec [, utc-flag])
+datespec - string of form YYY MM DD HH MM SS [DST]
+month - 1 to 12
+date - 1 to 31
+hours - 0 - 23
+min - 0 - 59
+sec - 0 - 60
+optional day light saving flag
+utc flag is present & non zero or non null, time is assumed to be UTC, else assumed to be local te zone.
+day light saving is +ve then time is assumed to be daylight saving time.If 0assumed to be std time; if -ve (default) then mktime() attempts to detetrmine daylight saving time.

@@ -1,0 +1,4 @@
+typeof(x)  
+
+Return a string indicating the type of x.  
+The string will be one of "array", "number", "regexp", "string", "strnum", "unassigned", or "undefined".

@@ -1,0 +1,20 @@
+function are called within a pattern or actions.
+real parameters
+	arrays are passed by reference
+	variables are passed by value
+
+to declare a local variable in parameter list, separate local variables form real parameters by extra space in parameter list.
+
+ex. 
+	function f(p, q,		a, b) # a & b are local
+	{
+		...
+	}
+
+	{ ...; f(1,2) ; ...}
+	Note - no space between f & ( for function call. This not applies to bulid in function.
+	default value of local variable is null for str & 0 for number.
+
+use return expr to return the value from a function. default is null
+
+

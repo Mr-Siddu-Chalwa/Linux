@@ -402,3 +402,6 @@ Numeric Function:
 	sin(expr)
 	sqrt(expr)
 	srand([expr])
+
+AWK supports in generating the transaltion of code, an o/p in .gmo files
+

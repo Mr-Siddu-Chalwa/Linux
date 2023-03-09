@@ -1,0 +1,4 @@
+perform a bitwise AND operation on two or more values
+
+and(v1, v2 [, ...])
+

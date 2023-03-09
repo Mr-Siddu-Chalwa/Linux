@@ -1,0 +1,6 @@
+shift the value right by count
+
+rshift(val, count)
+value: input  number like int, binary, hexa, float etc
+count: no. of bits to be shifted at right.
+

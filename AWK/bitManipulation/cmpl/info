@@ -1,0 +1,6 @@
+the one's complement of a value
+
+compl(val)
+The one's complement of a binary number is obtained by changing all 1s to 0s and all 0s to 1s.
+val: which can be either a numeric value or a string that can be converted to a numeric value
+if non numeric or out of range then returns 0

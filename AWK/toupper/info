@@ -1,0 +1,4 @@
+convert the input string str to uppercase letters
+
+toupper(str)
+str: input string
